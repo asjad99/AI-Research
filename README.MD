@@ -1,13 +1,19 @@
 
 
 ### Artificial General Intelligence 
-  - A Roadmap towards Machine Intelligence (facebook)
-  - Building Machines That Learn and Think Like People (MIT)
+
+NNs + most exciting recent progress has been in new forms of probabilistic machine learning (Ghahramani, 2015). For example, researchers have developed automated statistical reasoning techniques (Lloyd, Duvenaud, Grosse, Tenenbaum, & Ghahramani, 2014), automated techniques for model building and selection (Grosse, Salakhutdinov, Freeman, & Tenenbaum, 2012), and probabilistic programming languages (e.g., Gelman, Lee, & Guo, 2015; Goodman, Mansinghka, Roy, Bonawitz, & Tenenbaum, 2008; Mansinghka, Selsam, & Perov, 2014). We believe that these approaches will play important roles in future AI systems, and they are at least as compatible with the ideas from cognitive science we discuss here, but a full discussion of those connections is beyond the scope of the current article.
+
+  - A Roadmap towards Machine Intelligence (facebook): https://arxiv.org/pdf/1511.08130.pdf
+  - Building Machines That Learn and Think Like People (MIT): Building Machines That Learn and Think Like People
   - AI and NeuroScience by deepmind
   - Philosophy of Computer Science by William J. Rapaport
+  - RLDM Conference notes: https://david-abel.github.io/notes/rldm_2019.pdf
 
-
-
+            - interesting thesis: https://cims.nyu.edu/~brenden/papers/LakePhDThesis.pdf
+            - http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf
+            - https://www.kurzweilai.net/when-machines-learn-like-humans
+            
 Neural networks and deep learning
 
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
