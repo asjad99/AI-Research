@@ -23,13 +23,15 @@ https://www.kurzweilai.net/when-machines-learn-like-humans
 - Elman, J. L. (1990). Finding structure in time. Cognitive Science, 14(2), 179-211.
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society.
 
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap 
+
 ###  Reinforcement learning and decision making
 
 - Gureckis, T.M. and Love, B.C. (2015) Reinforcement learning: A computational perspective. Oxford Handbook of Computational and Mathematical Psychology, Edited by Busemeyer, J.R., Townsend, J., Zheng, W., and Eidels, A., Oxford University Press, New York, NY.
 - Daw, N.S. (2013) “Advanced Reinforcement Learning” Chapter in Neuroeconomics: Decision making and the brain, 2nd edition
 - Niv, Y. and Schoenbaum, G. (2008) “Dialogues on prediction errors” Trends in Cognitive Science, 12(7), 265-72.
 - Nathaniel D. Daw, John P. O’Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
-
+https://github.com/aikorea/awesome-rl 
 
 ###  Bayesian modeling
 
