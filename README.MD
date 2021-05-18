@@ -16,6 +16,16 @@
 
 #### Quotes: 
 
+
+Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success. 
+
+“It will seem at first that you’re working on the proverbial needle, a tiny fragment of the world, a minute crystal, beautiful but in the scheme of things, microscopic. Work with it. And the more you work with it, ... you will come to see that your work, your subject, encompasses the world. In time, you will come to see the world in your grain of sand.” – MANUEL BLUM (WHAT IS RESEARCH, 2001)
+
+“Great scientists tolerate ambiguity very well. They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory. If you believe too much you’ll never notice the flaws; if you doubt too much you won’t get started. It requires a lovely balance.”
+
+“Falcon Heavy teaches that crazy things can come true”
+
+
 On Future: 
 
 
