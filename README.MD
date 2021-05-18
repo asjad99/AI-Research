@@ -1,6 +1,8 @@
+Topics: 
 
 
-### Artificial General Intelligence 
+
+### Reading List
 
 NNs + most exciting recent progress has been in new forms of probabilistic machine learning (Ghahramani, 2015). For example, researchers have developed automated statistical reasoning techniques (Lloyd, Duvenaud, Grosse, Tenenbaum, & Ghahramani, 2014), automated techniques for model building and selection (Grosse, Salakhutdinov, Freeman, & Tenenbaum, 2012), and probabilistic programming languages (e.g., Gelman, Lee, & Guo, 2015; Goodman, Mansinghka, Roy, Bonawitz, & Tenenbaum, 2008; Mansinghka, Selsam, & Perov, 2014). We believe that these approaches will play important roles in future AI systems, and they are at least as compatible with the ideas from cognitive science we discuss here, but a full discussion of those connections is beyond the scope of the current article.
 
