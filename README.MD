@@ -3,17 +3,18 @@
 
 
 
+----
 ## Topics: 
 
 
 ##### [Reading List]
 ##### [Talks:] 
 ##### [How to Conduct Research]
-
+##### [Recommended Reads](https://github.com/asjad99/AI-Research/blob/main/recommended_reads.md)
 
 -----
 
-Quotes: 
+#### Quotes: 
 
 On Future: 
 
