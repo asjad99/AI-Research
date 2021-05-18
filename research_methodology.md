@@ -2,6 +2,12 @@
 
 ![https://anatomyof.ai/](https://paper-attachments.dropbox.com/s_D1A960734D0D7CAB48E833F866248DD4620C386C6B0485DEE7BAA389AE9734ED_1550146865187_image.png)
 
+
+
+   In my opinion, the most important aspect of computer science is algorithmic thinking. By “algorithmic thinking,” I mean the crisp definition of a problem, and the deliberate decomposition of a potential solution into a series of well-defined steps. Algorithmic thinking is useful for everyone, not just computer scientists, because everyone will encounter problems in their lives, and everyone will want to devise good solutions for those problems. Algorithmic thinking forces people to be explicit about their assumptions and their goals; clarity of thought results in better solutions! -James Mickens
+
+
+
 ### Philosophy of PhD
 
 You are responsible for pushing the boundaries of a tiny sub-field of human knowledge
@@ -20,6 +26,15 @@ Richard Hamming 10 RULES: https://journals.plos.org/ploscompbiol/article?id=10.1
 
 ### How to write a paper - lessons learned
  
+ 
+ 
+"When you understand that nobody wants to read your shit, your mind becomes powerfully concentrated. 
+You begin to understand that writing/reading is, above all, a transaction. 
+The reader donates his time and attention, which are supremely valuable commodities. In return, you the writer must give him something worthy of his gift to you.” 
+— Steven Pressfield
+
+
+
 Abstract
  
 
@@ -87,7 +102,13 @@ Quick Research:
 - write down the core steps 
 - add 100 small details to make it look like you have given enough thought
 
+### Asking Good questions
 
+How to Ask Good Questions
+
+1. A good question is energising. It’s an inviting challenge, it’s something that’s interesting and fun to pursue. It inspires a new way of seeing things, a new way of ordering information.
+2. A good question is an act of pointing. First you survey the ideascape in front of you – maybe it’s shared territory between the two of you, or maybe it’s you looking over your conversation-partner’s shoulder – and then you try and identify the most compelling, interesting thing, and point to that.
+3. “Funny” or “interesting” is a sort of compass or gyroscope that guides you away from stale questions.
 
 ### Example of Open Problem in RL 
 
@@ -117,3 +138,7 @@ Replicate Papers
 [ ] Replicate the experiment to get a sense of time for training
 [ ] Understand the core algorithm
 [ ] Tinker with the algo. https://www.youtube.com/watch?v=8EcdaCk9KaQ
+
+
+![image](https://user-images.githubusercontent.com/3470924/118581974-f322e700-b7d5-11eb-94f6-b843adfe7b79.png)
+
