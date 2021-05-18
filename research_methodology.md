@@ -1,6 +1,5 @@
-How to conduct research? 
+## How to conduct research? 
 
-----------
 ![https://anatomyof.ai/](https://paper-attachments.dropbox.com/s_D1A960734D0D7CAB48E833F866248DD4620C386C6B0485DEE7BAA389AE9734ED_1550146865187_image.png)
 
 ### Philosophy of PhD
@@ -19,8 +18,7 @@ You are responsible for pushing the boundaries of a tiny sub-field of human know
 Richard Hamming 10 RULES: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030213 
 
 
-
-How to write a paper - lessons learned
+### How to write a paper - lessons learned
  
 Abstract
  
