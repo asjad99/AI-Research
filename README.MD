@@ -1,10 +1,15 @@
+![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
+
+
+
+
 ## Topics: 
 
 
-##### Reading List
-##### Talks: 
-##### How to Conduct Research
-##### Resources: 
+##### [Reading List]
+##### [Talks:] 
+##### [How to Conduct Research]
+
 
 -----
 
