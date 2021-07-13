@@ -7,6 +7,48 @@
    In my opinion, the most important aspect of computer science is algorithmic thinking. By “algorithmic thinking,” I mean the crisp definition of a problem, and the deliberate decomposition of a potential solution into a series of well-defined steps. Algorithmic thinking is useful for everyone, not just computer scientists, because everyone will encounter problems in their lives, and everyone will want to devise good solutions for those problems. Algorithmic thinking forces people to be explicit about their assumptions and their goals; clarity of thought results in better solutions! -James Mickens
 
 
+Learning to Learn or Conducting hard technical projects - building data products thats the whole point of PhD ! 
+
+
+----------
+1. First Build Background
+
+To quickly build the background in an area take a course
+
+A course involves readings, labs, notes of key concepts. 
+
+Alternatively build your own: 
+
+    - identify key topics/concepts
+    - Introduce the concept informally
+    - then formally with Math/Algorithmic
+    - Examples
+    - Document above in notes (Typora)
+    - Code Implementation to solidly understanding
+
+
+2. Read about similar Projects
+- Start building annotated bib of relevant resources  (use dropbox paper) 
+- Read 30 pages daily and highlight
+- Start writing - give structure 
+- For a novel algorithm - list down challenges - generate idea - address some challenges  
+
+
+3. Start implementing  
+- Once the idea is sorted
+- Make the whole thing reproducible by
+    - Defining the project setting 
+    - Use notebooks to document preprocessing - modeling and results 
+    - Use Github to docuement steps for replication 
+
+Tips: 
+
+   - Keep a physical journal for recording brain waves (read about rubber ducky concept in SE)
+   - If the project is boring - pick topics that have potnetial for blog post 
+
+
+
+-----------
 
 ### Philosophy of PhD
 
