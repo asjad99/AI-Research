@@ -1,0 +1,73 @@
+Lessons from andrew NG and James Mickens 
+Reading many papers and replicating results is the best and most reliable path towards becoming a better data scientist.1 It’s a pattern Andrew has seen across his students, and one that I personally believe in.
+
+
+Innovation Can be taught:
+
+I believe that the ability to innovate and to be creative are teachable processes. There are ways by which people can systematically innovate or systematically become creative. One thing I've been doing at Baidu is running a workshop on the strategy of innovation. The idea is that innovation is not these random unpredictable acts of genius, but that instead one can be very systematic in creating things that have never been created before.
+
+Coming up with new ideas:
+
+In my own life, I found that whenever I wasn't sure what to do next, I would go and learn a lot, read a lot, talk to experts. I don't know how the human brain works but it's almost magical: when you read enough or talk to enough experts, when you have enough inputs, new ideas start appearing. This seems to happen for a lot of people that I know.
+When you become sufficiently expert in the state of the art, you stop picking ideas at random. You are thoughtful in how to select ideas, and how to combine ideas. You are thoughtful about when you should be generating many ideas versus pruning down ideas.
+
+ So as far as I can tell, the only was we know way to teach strategic skills is by example, by seeing tons of examples. 
+
+Book and People:
+
+I read a lot and I also spend time talking to people a fair amount. I think two of the most efficient ways to learn, to get information, are reading and talking to experts. So I spend quite a bit of time doing both of them. I think I have just shy of a thousand books on my Kindle. And I've probably read about two-thirds of them.
+
+half a book a week 
+
+Recommendations: The Lean Startup,”, "Crossing the Chasm.”, "Zero to One”, "Talking to Humans," , "Rocket Surgery Made Easy.”"The Hard Thing about Hard Things.”, "So Good They Can't Ignore You." 
+
+On Following passion: 
+
+But often, you first become good at something, and then you become passionate about it. And I think most people can become good at almost anything.
+
+
+How to choose Projects: Learning + impact
+
+So when I think about what to do with my own life, what I want to work on, I look at two criteria. The first is whether it's an opportunity to learn. Does the work on this project allow me to learn new and interesting and useful things? The second is the potential impact. The world has an infinite supply of interesting problems. The world also has an infinite supply of important problems. I would love for people to focus on the latter.
+
+I think young people optimizing for these two things will often have the best careers.
+
+
+Habits vs Willpower: 
+
+One of the biggest levers on your own life is your ability to form useful habits. 
+
+Reading as a long term investment
+
+When I talk to researchers, when I talk to people wanting to engage in entrepreneurship, I tell them that if you read research papers consistently, if you seriously study half a dozen papers a week and you do that for two years, after those two years you will have learned a lot. This is a fantastic investment in your own long term development.
+
+But that sort of investment, if you spend a whole Saturday studying rather than watching TV, there's no one there to pat you on the back or tell you you did a good job. Chances are what you learned studying all Saturday won't make you that much better at your job the following Monday. There are very few, almost no short-term rewards for these things. But it's a fantastic long-term investment. This is really how you become a great researcher, you have to read a lot.
+
+People that count on willpower to do these things, it almost never works because willpower peters out. Instead I think people that are into creating habits -- you know, studying every week, working hard every week -- those are the most important. Those are the people most likely to succeed.
+
+
+Appreciate whats going well, what can be improved on, and a lessons from the mistakes..
+
+
+
+----------
+James Mickens 
+
+My years as a PhD student were some of the best years of my life, both intellectually and socially.
+
+What CS teaches you: 
+In my opinion, the most important aspect of computer science is algorithmic thinking. By “algorithmic thinking,” I mean the crisp definition of a problem, and the deliberate decomposition of a potential solution into a series of well-defined steps. Algorithmic thinking is useful for everyone, not just computer scientists, because everyone will encounter problems in their lives, and everyone will want to devise good solutions for those problems. Algorithmic thinking forces people to be explicit about their assumptions and their goals; clarity of thought results in better solutions!
+
+
+
+Social circle: One important key to surviving grad school is having a strong social network. You will need shoulders to cry on when your paper has been rejected for the fifth time, and you will need people to help you burn couches when your paper is accepted on the sixth try. It’s also important to find mentors, because, as I mentioned above, it’s incredibly useful to have smart people who are invested in making you a better person.
+
+Pushing the knowledge boundry:
+
+As a PhD student, it’s important to look out for your own career! Unlike in undergrad, where you’re mostly given problems that have known solutions, in a PhD program, you’re expected to ask questions that haven’t been asked before, and then generate answers to those problems. Generating those answers will take a lot of hard work and sleepless nights :-). So, you have to pick problems that you think are important. Then you need to talk to other smart people and see if they think that the problem is important. It’s perfectly acceptable to work on something that other people might think is unimportant. However, one of the most important lessons that I’ve learned in life is the value of smart people who will be unflinchingly honest about your research. It’s difficult to take criticism, but it’s much better to have a bad idea snuffed out on Day 3 of its existence instead of Year 3 of your PhD.
+
+
+
+building community:
+
+Does your group have a yearly conference? If not, you might consider having one. I say this because face-to-face interactions are extremely important for spinning up collaborations and long-term discussions. I realize that organizing a conference is a very complex endeavor, but I think that conferences really help to create a sense of community in a way that online discussions alone cannot. Conferences also help with professional networking, which is extremely important for one’s ultimate career success. If having a full-blown conference is infeasible, you may be able to co-locate a workshop alongside a bigger, preexisting tech conference. Alternatively, you might be able to offer travel scholarships for BIT members to go to conferences as a group; as you know, conferences are super-expensive, so any kind of financial support can lower the barrier to participation for POC. In summary, anything that gets people in the same room is useful for building community!
