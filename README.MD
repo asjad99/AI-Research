@@ -1,16 +1,20 @@
+
+## About
+
+As rising volumes of data play an increasingly central role in society, data-intensive computing systems must evolve.
+
+This repo ispired from work being done at stanford's  [Future Data Systems group](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) where their mission is to design and build post-database systems that enable next-generation data-intensive applications
+
+
+
+
 ![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
 
 
 
-
-----
-## Topics: 
+## Projects/Areas
 
 
-##### [Reading List]
-##### [Talks:] 
-##### [How to Conduct Research]
-##### [Recommended Reads](https://github.com/asjad99/AI-Research/blob/main/recommended_reads.md)
 
 -----
 
