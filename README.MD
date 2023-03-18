@@ -3,7 +3,7 @@
 
 As rising volumes of data play an increasingly central role in society, data-intensive computing systems must evolve.
 
-This repo ispired from work being done at stanford's  [Future Data Systems group](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) where their mission is to design and build post-database systems that enable next-generation data-intensive applications
+This repo ispired from work being done at stanford's  [Future Data Systems group](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) where their mission is to design and build post-database systems that enable next-generation data-intensive applications and [stanford Dawn](democratize AI by making it dramatically easier to build AI-powered applications.)
 
 
 
