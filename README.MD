@@ -21,7 +21,14 @@ This repo ispired from work being done at stanford's  [Future Data Systems group
 
 reference: https://openai.com/research/ai-and-compute 
 
-#### AI Projects: 
+
+### Areas: 
+- [Systems Development in C++/Rust]()
+
+- [Data Engineering and MLops](https://github.com/asjad99/data-engineering-ml-ops)
+
+
+#### Few old Projects: 
 - [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
 - [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
 - [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
