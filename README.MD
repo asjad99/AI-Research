@@ -8,6 +8,7 @@ This repo ispired from work being done at stanford's  [Future Data Systems group
 
 ![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
 
+reference: https://openai.com/research/ai-and-compute 
 
 #### AI Projects: 
 - [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
