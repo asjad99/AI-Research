@@ -33,6 +33,5 @@ reference: https://openai.com/research/ai-and-compute
 - [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
 - [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
 - [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
-- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
-- [Goal-Mining](https://github.com/asjad99/know-how-mining) - Mining goal refinement patterns: distilling know-how from data.
+
 
