@@ -1,3 +1,13 @@
+### Inspiring Projects
+
+- Stanford Dawn 
+- Stanford 
+- MicroGrad
+- Tensorflow/pytorch 
+
+
+
+
 https://timdettmers.com/category/hardware/ 
 
 https://blog.tensorflow.org/2023/02/updates-tensorflow-decision-forests-is-production-ready.html?linkId=8569552&m=1
