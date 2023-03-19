@@ -52,3 +52,13 @@ On Past and Ode to the people who built it:
 Even jobs that don't seem cognitively demanding, like janitors or infantry. Higher IQ candidates almost universally do better, even if they start with much less experience.
 The takeaway as it applies to modern software hiring, is that skillset is way overemphasized. It's quite common to see job ads that heavily focus on the company's specific tech stack. ("Must have experience with Rails, React, Travis, and AWS")
 It's much better to cast a much wider net, and try to find the smartest people anywhere. High IQ people can easily re-tool their specific skillset. What's interesting is this is much closer to how the most successful tech firms, like Google, tend to hire.
+
+
+#### AI Projects: 
+- [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
+- [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
+- [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
+- [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
+- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
+- [Goal-Mining](https://github.com/asjad99/know-how-mining) - Mining goal refinement patterns: distilling know-how from data.
+
