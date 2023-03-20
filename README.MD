@@ -1,20 +1,27 @@
 
 ## About
 
-As rising volumes of data play an increasingly central role in society, data-intensive computing systems must evolve. Moving forward: 
+As the significance of data continues to grow in society, it is essential for data-intensive computing systems to adapt accordingly. In the future:
 
+- Data generation will continue to increase
+- Data-driven organizations will become standard practice
+- Organizations will understand which data to collect from the outset
+- Experiment-driven optimization of operations and design will be incorporated into educational curriculums
+- Machine learning will become so user-friendly that average programmers will easily utilize it to build data products
+- Domain-specific startups will automate some basic data analysis tasks, addressing particular data challenges
+- Data analysis will consider the context in which the data was generated
+- Overcoming data challenges and extracting value from data will remain difficult
+- Creative business strategies will still rely on human input
 
-- Data generation will only increase 
-- Data-driven organisations will become the norm 
-- Organizations will know how what data to collect from day 1
-- Experiment driven optimisation of operations/design etc. will be taught in classes 
-- ML will be super easy to use that average joe programmer will be trained and would be easy to use it and build data products 
-- Some of the basic data analysis tasks would be automated by startups that are domain specific. i.e domain specific startups will solve some of the data challenges 
-- Data will analysed in the context it was generated
-- Tackling data challenges and getting value out of it will still be hard
-- creative bussiness strategy will still be still be left to humans  
+With the growing importance of data in society and the increasing volume of information, it is crucial for data-intensive computing systems to advance. 
 
-This repo ispired from work being done at stanford's  [Future Data Systems group](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) where their mission is to design and build post-database systems that enable next-generation data-intensive applications and [stanford Dawn](democratize AI by making it dramatically easier to build AI-powered applications.)
+This repo inspired from work being done at stanford's  [Future Data Systems group](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) where their mission is to design and build post-database systems that enable next-generation data-intensive applications. This group is part of [stanford Dawn]() whose work inolves democratize AI by making it dramatically easier to build AI-powered applications. 
+
+AI advancement is driven by three factors: algorithmic innovation, data (supervised or interactive environments), and available compute power for training. Compute power is the most quantifiable of these factors, enabling us to measure AI progress. The amount of compute used to train a single model correlates with the power of our best models. The trend shows an increase by roughly a factor of 10 each year, partly driven by custom hardware like GPUs and TPUs, and mainly propelled by researchers finding ways to use more chips in parallel.
+
+Four distinct eras are visible in AI development: before 2012, when using GPUs for ML was uncommon; 2012-2014, when infrastructure to train on multiple GPUs was rare; 2014-2016, when large-scale results used 10-100 GPUs; and 2016-2017, when greater algorithmic parallelism and specialized hardware significantly increased limits for some applications.
+
+The trend may continue as hardware startups develop AI-specific chips that promise increased FLOPS/Watt in the next 1-2 years. Additionally, algorithmic innovations could be combined multiplicatively for further gains. However, cost and physics will eventually limit parallelism and chip efficiency. Although it is uncertain how long the trend will persist, its potential for rapid capability increases highlights the importance of addressing safety and malicious AI use now. OpenAI aims to ensure AI progress benefits humanity, offering various research and engineering roles.
 
 
 ![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
