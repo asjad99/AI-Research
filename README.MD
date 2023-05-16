@@ -13,6 +13,7 @@ As the significance of data continues to grow in society, it is essential for da
 - Overcoming data challenges and extracting value from data will remain difficult
 - Creative business strategies will still rely on human input
 
+<img width="586" alt="Screenshot 2023-05-16 at 8 10 28 pm" src="https://github.com/asjad99/Engineering-Data-Products/assets/3470924/c6a9f137-bb9e-447a-bd32-904c552a0147">
 
 
 ### Case Studies: 
