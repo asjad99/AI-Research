@@ -1,0 +1,23 @@
+
+
+## Filtering: 
+
+
+Filtering row values of a particular column Based on entries in a python list
+
+``` 
+agri_df.filter((agri_df["Country"]).isin(List1)).show()
+```
+
+
+
+Output: 
+
+```
+results.show(false) , results will not be truncated 
+```
+
+```
+df.persist
+df.show(df.count, false) // in Scala or 'False' in Python
+```
