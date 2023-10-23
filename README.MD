@@ -14,6 +14,7 @@ The trend may continue as hardware startups develop AI-specific chips that promi
 
 ![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
 
+reference: https://openai.com/research/ai-and-compute 
 
 As the significance of data continues to grow in society, it is essential for data-intensive computing systems to adapt accordingly. In Summary:
 
@@ -30,31 +31,13 @@ As the significance of data continues to grow in society, it is essential for da
 <img width="586" alt="Screenshot 2023-05-16 at 8 10 28 pm" src="https://github.com/asjad99/Engineering-Data-Products/assets/3470924/c6a9f137-bb9e-447a-bd32-904c552a0147">
 
 
-## Fundamentals 
+## Fundamentals: 
 
 
 1. Pandas basics: Python for Data Analysis 
 1. Spark basics 
 
 
-
-
-### Case Studies: 
-
-Data Products: 
-
-1. Fast Forwards Labs
-2. Advanced Analytics in Spark 
-3. Beautiful Data
-
-
-reference: https://openai.com/research/ai-and-compute 
-
-
-### Areas: 
-- [Systems Development in C++/Rust]()
-
-- [Data Engineering and MLops](https://github.com/asjad99/data-engineering-ml-ops)
 
 
 #### Few old Projects: 
@@ -64,3 +47,15 @@ reference: https://openai.com/research/ai-and-compute
 - [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
 
 
+### Data Product - Case Studies: 
+
+
+1. Fast Forwards Labs
+2. Advanced Analytics in Spark 
+3. Beautiful Data
+
+
+### Areas: 
+- [Systems Development in C++/Rust]()
+
+- [Data Engineering and MLops](https://github.com/asjad99/data-engineering-ml-ops)
