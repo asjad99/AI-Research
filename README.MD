@@ -31,20 +31,102 @@ As the significance of data continues to grow in society, it is essential for da
 <img width="586" alt="Screenshot 2023-05-16 at 8 10 28 pm" src="https://github.com/asjad99/Engineering-Data-Products/assets/3470924/c6a9f137-bb9e-447a-bd32-904c552a0147">
 
 
+
+### Motivation: 
+
+With 2,3 trillion gigabytes of data created each day, companies have access to a broad range of information on their users, market and much more.
+This Data allows them to constantly improve their product/service. 
+
+- At early stage start-ups: the primary analytic focus is to implement logging, to build ETL processes, to model data and design schemas so data can be tracked and stored. The goal here is focused on building the analytics foundation rather than analysis itself
+- At mid-stage growing start-ups: Since the company is growing, the data is probably growing too. The data platform needs to adapt, but with the foundation laid out already, there will be a natural shift to insight generation. Unless the company leverages Data Science for its strategic differentiation to start with, many analytics work are around defining KPI, attributing growth, and finding the next opportunities to grow
+- Companies who achieved scale: When the company scales up, data also scales up. It needs to leverage data to create or maintain competitive edge. e.g. Search results need to be better, recommendations need to be more relevant, logistics or operations need to be more efficient — this is the time where specialist like ML engineers, Optimization experts, Experimentation designers can play a huge role in stepping up the game.
+
+Before we can do data science we need to setup the infrastructure
+
+![alt text](images/ml_hierarchy_of_needs.png "Logo Title Text 1")
+
+
+Developing an AI project development life cycle involves five distinct tasks:
+
+-  Data engineering: People responsible for data engineering prepare data
+and transform data into formats that other team members can use.
+-  Modeling: People assigned to modeling look for patterns in data that can
+help a company predict outcomes of various decisions, identify business risks
+and opportunities, or determine cause-and-effect relationships.
+-  Deployment: People in charge of deployment take a stream of data, combine it
+with a model, and test the integration before putting the model into production.
+-  Business analysis: Team members responsible for business analysis evaluate a deployed
+model’s performance and business value and adjust accordingly to maximize benefit or abandon unproductive models.
+-  AI infrastructure: People who work in AI infrastructure build and maintain reliable, fast, secure, and scalable software
+systems to help people working in data engineering, modeling, deployment and business analysis.
+
+
+
+
+
+
+
+
+
+
+
 ## Fundamentals: 
 
+#### Guides on Python Programming
 
-1. Pandas basics: Python for Data Analysis 
-1. Spark basics 
+- How to think like a CS in python
+- SCIP in python
+- Hitch Hiker's Guide to python
+- python env https://jacobian.org/2018/feb/21/python-environment-2018/
+- Cheatsheet
+- MIT Hacker tools
+- [Python is Cool] https://github.com/chiphuyen/python-is-cool
+- [Data Algorithms](https://github.com/asjad99/modern_algorithms_toolkit)  
 
+
+### Data Wrangling Tools and Libraries 
+
+Data wrangling is about taking a messy or unrefined source of data and turning it into something useful. 
+You begin by seeking out raw data sources and determining their value: How good are they as data sets? 
+How relevant are they to your goal? Is there a better source? Once you’ve parsed and cleaned the data so that the data sets are usable, 
+you can utilize tools and methods (like Python scripts) to help you analyze them and present your findings in a report. 
+This allows you to take data no one would bother looking at and make it both clear and actionable.
+
+Clean and wrangle data into a usable state
+
+> Data engineers make sure the data the organization is using is clean, reliable, and prepped for whatever use cases may present themselves. 
+Data engineers wrangle data into a state that can then have queries run against it by data scientists.
+
+> Data Formats should be easy for computers to parse, people to read and widely used by systems in production. 
+The computations we perform must be reproducible and tweakable. Data Pipelines need to be documented. 
+
+#### Learning the tools 
+
+| Notebook                 | Description | Code |
+|--------------------------|-----------|------|
+| Command-line             | Learn various unix command line utlities and how they can be used to clean and compute basic statistics          | [blog_post](https://asjadkhan.ghost.io/ghost/#/site) |     
+| Web Data Collection      | Learn to collect data available on web (APIs or web scrapping)          | [Notebook](https://github.com/asjad99/datascience-GYM/tree/master/data_engineering)          |  
+| numpy_Basics     | Learn the basics of the library that underpins scientific computing          |[Notebook](/work/datascience-GYM/Data_Munging/[Numpy]basics.ipynb)        | 
+| numpy_linear_algebra     |           |Notebook        |     
+| Pandas Basics            | Learn the basics of pandas        |[Notebook](https://github.com/asjad99/datascience-GYM/blob/master/Data_Munging/Pandas.ipynb)        |      |
+
+
+Learn More: 
+ 
+  - see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] to learn more 
+  - [just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
+- Python for Data Analysis Books 
+ 
+### Big Data Processing 
+
+
+
+## Building Training Datasets: 
 
 
 
 #### Few old Projects: 
 - [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
-- [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
-- [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
-- [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
 
 
 ### Data Product - Case Studies: 
