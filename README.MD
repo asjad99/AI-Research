@@ -142,6 +142,9 @@ https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-29%20%7C%2
 **Case Studies:**
 
 1. Fast Forwards Labs
+
+### Best Coding Practices
+https://github.com/databricks/notebook-best-practices
 2. Advanced Analytics in Spark 
 3. Beautiful Data
 
