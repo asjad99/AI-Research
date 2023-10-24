@@ -113,6 +113,7 @@ Learn More:
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-16%20%7C%20Diving%20into%20Delta%20Lake%20-%20DML%20Internals
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-26%20%7C%20Diving%20into%20Delta%20Lake%20-%20Unpacking%20the%20Transaction%20Log 
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-02%20%7C%20Diving%20into%20Delta%20Lake%20-%20Schema%20Enforcement%20and%20Evolution 
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-05%20%7C%20Beyond%20Lambda%20-%20Introducing%20Delta%20Architecture 
 
 ### Big Data Processing: 
 
