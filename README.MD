@@ -113,22 +113,33 @@ Learn More:
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-16%20%7C%20Diving%20into%20Delta%20Lake%20-%20DML%20Internals
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-26%20%7C%20Diving%20into%20Delta%20Lake%20-%20Unpacking%20the%20Transaction%20Log 
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-02%20%7C%20Diving%20into%20Delta%20Lake%20-%20Schema%20Enforcement%20and%20Evolution 
-- https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-05%20%7C%20Beyond%20Lambda%20-%20Introducing%20Delta%20Architecture 
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-08-27%20%7C%20How%20Delta%20Lake%20Supercharges%20Data%20Lakes 
+https://www.youtube.com/watch?v=hQaENo78za0 
+https://youtu.be/F-5t3QCI96g 
+
+#### Pipelines: 
+
 - https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-12%20%7C%20Simplify%20and%20Scale%20Data%20Engineering%20Pipelines%20with%20Delta%20Lake
+ 
+
 
 ### Big Data Processing: 
 
-Case Study: [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
+https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-29%20%7C%20Intro%20to%20Apache%20Spark 
+
+**Case Studies**
+
+- [GeoSpatial Analytics]https://github.com/databricks/tech-talks/tree/master/sessions/2021-12-14%20%7C%20Geospatial%20Analytics%20and%20AI%20at%20Scale
+- [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
 
 
-## Building Training Datasets for ML: 
 
 
+### Building a Cloud Data Platform : 
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-05%20%7C%20Beyond%20Lambda%20-%20Introducing%20Delta%20Architecture 
 
-#### Few old Projects: 
 
-
-### Data Product - Case Studies: 
+**Case Studies:**
 
 1. Fast Forwards Labs
 2. Advanced Analytics in Spark 
