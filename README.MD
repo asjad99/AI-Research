@@ -1,5 +1,5 @@
 
-## About
+## Background 
 
 With the growing importance of data in society and the increasing volume of information, it is crucial for data-intensive computing systems to advance. 
 
@@ -10,7 +10,6 @@ AI advancement is driven by three factors: algorithmic innovation, data (supervi
 Four distinct eras are visible in AI development: before 2012, when using GPUs for ML was uncommon; 2012-2014, when infrastructure to train on multiple GPUs was rare; 2014-2016, when large-scale results used 10-100 GPUs; and 2016-2017, when greater algorithmic parallelism and specialized hardware significantly increased limits for some applications.
 
 The trend may continue as hardware startups develop AI-specific chips that promise increased FLOPS/Watt in the next 1-2 years. Additionally, algorithmic innovations could be combined multiplicatively for further gains. However, cost and physics will eventually limit parallelism and chip efficiency. Although it is uncertain how long the trend will persist, its potential for rapid capability increases highlights the importance of addressing safety and malicious AI use now. OpenAI aims to ensure AI progress benefits humanity, offering various research and engineering roles.
-
 
 ![ai-and-compute-all-2](https://user-images.githubusercontent.com/3470924/118594494-e9f14480-b7ec-11eb-8c31-90e0af92e532.png)
 
@@ -32,20 +31,7 @@ As the significance of data continues to grow in society, it is essential for da
 
 
 
-### Motivation: 
-
-With 2,3 trillion gigabytes of data created each day, companies have access to a broad range of information on their users, market and much more.
-This Data allows them to constantly improve their product/service. 
-
-- At early stage start-ups: the primary analytic focus is to implement logging, to build ETL processes, to model data and design schemas so data can be tracked and stored. The goal here is focused on building the analytics foundation rather than analysis itself
-- At mid-stage growing start-ups: Since the company is growing, the data is probably growing too. The data platform needs to adapt, but with the foundation laid out already, there will be a natural shift to insight generation. Unless the company leverages Data Science for its strategic differentiation to start with, many analytics work are around defining KPI, attributing growth, and finding the next opportunities to grow
-- Companies who achieved scale: When the company scales up, data also scales up. It needs to leverage data to create or maintain competitive edge. e.g. Search results need to be better, recommendations need to be more relevant, logistics or operations need to be more efficient — this is the time where specialist like ML engineers, Optimization experts, Experimentation designers can play a huge role in stepping up the game.
-
-Before we can do data science we need to setup the infrastructure
-
-![alt text](images/ml_hierarchy_of_needs.png "Logo Title Text 1")
-
-
+### LifeCycle 
 Developing an AI project development life cycle involves five distinct tasks:
 
 -  Data engineering: People responsible for data engineering prepare data
@@ -61,18 +47,24 @@ model’s performance and business value and adjust accordingly to maximize bene
 systems to help people working in data engineering, modeling, deployment and business analysis.
 
 
+## Data Engineering: 
+
+With 2,3 trillion gigabytes of data created each day, companies have access to a broad range of information on their users, market and much more.
+This Data allows them to constantly improve their product/service. 
+
+- At early stage start-ups: the primary analytic focus is to implement logging, to build ETL processes, to model data and design schemas so data can be tracked and stored. The goal here is focused on building the analytics foundation rather than analysis itself
+- At mid-stage growing start-ups: Since the company is growing, the data is probably growing too. The data platform needs to adapt, but with the foundation laid out already, there will be a natural shift to insight generation. Unless the company leverages Data Science for its strategic differentiation to start with, many analytics work are around defining KPI, attributing growth, and finding the next opportunities to grow
+- Companies who achieved scale: When the company scales up, data also scales up. It needs to leverage data to create or maintain competitive edge. e.g. Search results need to be better, recommendations need to be more relevant, logistics or operations need to be more efficient — this is the time where specialist like ML engineers, Optimization experts, Experimentation designers can play a huge role in stepping up the game.
+
+Before we can do data science we need to setup the infrastructure
+
+![alt text](images/ml_hierarchy_of_needs.png "Logo Title Text 1")
 
 
+### Fundamentals 
 
 
-
-
-
-
-
-## Fundamentals: 
-
-#### Guides on Python Programming
+**Guides on Python Programming**
 
 - How to think like a CS in python
 - SCIP in python
@@ -84,7 +76,7 @@ systems to help people working in data engineering, modeling, deployment and bus
 - [Data Algorithms](https://github.com/asjad99/modern_algorithms_toolkit)  
 
 
-### Data Wrangling Tools and Libraries 
+### Data Wrangling Libraries   
 
 Data wrangling is about taking a messy or unrefined source of data and turning it into something useful. 
 You begin by seeking out raw data sources and determining their value: How good are they as data sets? 
@@ -112,32 +104,31 @@ The computations we perform must be reproducible and tweakable. Data Pipelines n
 
 
 Learn More: 
- 
-  - see our (data Engineering course)[https://github.com/asjad99/data-engineering-ml-ops/edit/main/README.md] to learn more 
   - [just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
-- Python for Data Analysis Books 
- 
-### Big Data Processing 
+  - Python for Data Analysis Books 
 
 
+### Delta Lake: 
 
-## Building Training Datasets: 
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-16%20%7C%20Diving%20into%20Delta%20Lake%20-%20DML%20Internals
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-03-26%20%7C%20Diving%20into%20Delta%20Lake%20-%20Unpacking%20the%20Transaction%20Log 
+- https://github.com/databricks/tech-talks/tree/master/sessions/2020-04-02%20%7C%20Diving%20into%20Delta%20Lake%20-%20Schema%20Enforcement%20and%20Evolution 
+
+### Big Data Processing: 
+
+Case Study: [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
+
+
+## Building Training Datasets for ML: 
 
 
 
 #### Few old Projects: 
-- [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
 
 
 ### Data Product - Case Studies: 
-
 
 1. Fast Forwards Labs
 2. Advanced Analytics in Spark 
 3. Beautiful Data
 
-
-### Areas: 
-- [Systems Development in C++/Rust]()
-
-- [Data Engineering and MLops](https://github.com/asjad99/data-engineering-ml-ops)
